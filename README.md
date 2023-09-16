@@ -9,9 +9,9 @@ This project has been deployed on PythonAnywhere and can be accessed through the
 
    - Access to Redoc: [Redoc Link](https://abdulloev.pythonanywhere.com/redoc/)
 
-To access APIs directly, you can append the provided URLs to the base API path: 'https://nematulloh.pythonanywhere.com/api/'. 
+To access APIs directly, you can append the provided URLs to the base API path: 'https://abdulloev.pythonanywhere.com/auth/'. 
 
-For instance, to register a new user, you can make a POST request to 'https://nematulloh.pythonanywhere.com/api/register/'.
+For instance, to register a new user, you can make a POST request to: 'https://abdulloev.pythonanywhere.com/auth/register/'.
 
 
 # Try It on Your Local Machine:
@@ -37,8 +37,8 @@ cd <project_directory>
 2. **Create and Activate a Virtual Environment:**
 
 ```
-python -m venv venv
-source venv/bin/activate # On Windows: venv\Scripts\activate
+python -m venv yourvenv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
 
 3. **Install Project Dependencies:**
@@ -160,7 +160,7 @@ To configure Celery with Redis for sending OTP to your email, follow these steps
      ```
    - Activate the virtual environment:
      ```
-     source venv/bin/activate # On Windows: venv\Scripts\activate
+     source venv/bin/activate  # On Windows: venv\Scripts\activate
      ```
 
 5. **Install Dependencies:**
@@ -199,8 +199,8 @@ By following these steps, you'll successfully deploy your Django backend applica
 This README has provided you with a clear understanding of the deployment process and how to interact with the project's APIs. Feel free to access the deployed project through the provided links and explore its functionalities.
 
 
-If you're looking for further assistance, have questions, or want to discuss any aspect of this project, you can reach out to me on:
-**Telegram:** [@tajmaxpro](https://t.me/tajmaxpro)
+If you're looking for further assistance, have questions, or want to discuss any aspect of this project, you can reach out me on
+Telegram: [@tajmaxpro](https://t.me/tajmaxpro)
 
 Best regards,
 
