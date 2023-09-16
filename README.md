@@ -5,15 +5,13 @@ RESTful API for user registration, login, fetching user profile, updating user p
 
 This project has been deployed on PythonAnywhere and can be accessed through the following links:
 
-   - Swagger UI: [Swagger UI Link](https://abdulloev.pythonanywhere.com/swagger/)
+   - Accsess to Swagger UI: [Swagger UI Link](https://abdulloev.pythonanywhere.com/swagger/)
 
-   - Redoc: [Redoc Link](https://abdulloev.pythonanywhere.com/redoc/)
+   - Access to Redoc: [Redoc Link](https://abdulloev.pythonanywhere.com/redoc/)
 
-   From both the Swagger UI and Redoc interfaces, you can explore the available APIs, endpoints, and functionalities with ease. It's a great way to test, develop, or interact with the project.
+To access APIs directly, you can append the provided URLs to the base API path: 'https://nematulloh.pythonanywhere.com/api/'. 
 
-
-To access APIs directly, you can append the provided URLs to the base API path: 'https://nematulloh.pythonanywhere.com/api/'. For instance, to register a new user, you can make a POST request to 'https://nematulloh.pythonanywhere.com/api/register/'.
-
+For instance, to register a new user, you can make a POST request to 'https://nematulloh.pythonanywhere.com/api/register/'.
 
 
 # Try It on Your Local Machine:
@@ -201,9 +199,9 @@ By following these steps, you'll successfully deploy your Django backend applica
 This README has provided you with a clear understanding of the deployment process and how to interact with the project's APIs. Feel free to access the deployed project through the provided links and explore its functionalities.
 
 
-If you're looking for further assistance, have questions, or want to discuss any aspect of this project, you can reach out to me on Telegram:
-
+If you're looking for further assistance, have questions, or want to discuss any aspect of this project, you can reach out to me on:
 **Telegram:** [@tajmaxpro](https://t.me/tajmaxpro)
 
 Best regards,
+
 Muhammadjon
