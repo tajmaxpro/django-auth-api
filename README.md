@@ -9,9 +9,9 @@ This project has been deployed on [PythonAnywhere](https://www.pythonanywhere.co
 
    - [Redoc Link](https://abdulloev.pythonanywhere.com/redoc/)
 
-To access APIs directly, you can append the provided URLs to the [base API path]('https://abdulloev.pythonanywhere.com/auth/'). 
+To access APIs directly, you can append the provided URLs to the [base API path](https://abdulloev.pythonanywhere.com/auth/). 
 
-For instance, to register a new user, you can make a [POST request]('https://abdulloev.pythonanywhere.com/auth/register/').
+For instance, to register a new user, you can make a [POST request](https://abdulloev.pythonanywhere.com/auth/register/).
 
 
 # Try It on Your Local Machine:
@@ -32,7 +32,6 @@ To test the project on your local machine, follow these steps:
 git clone <repository_url>
 cd <project_directory>
 ```
-
 
 2. **Create and Activate a Virtual Environment:**
 
@@ -60,12 +59,12 @@ python manage.py migrate
 python manage.py createsuperuser
 ```
 
-
 8. **Run the Development Server:**
 
 ```
 python manage.py runserver
 ```
+
 
 
 ## Configuring Celery with Redis for sending OTP to your email
@@ -81,7 +80,6 @@ To configure Celery with Redis for sending OTP to your email, follow these steps
    - For Other Operating Systems:
      - Follow the official [Redis installation guide](https://redis.io/download) for your operating system. 
    
-
 2. **Install Celery And Redis:**
 - In your project's virtual environment, install Celery and Redis using pip:
   ```
@@ -105,7 +103,6 @@ To configure Celery with Redis for sending OTP to your email, follow these steps
    EMAIL_PORT = 587
    EMAIL_HOST_USER = "your_email@example.com"
    EMAIL_HOST_PASSWORD = "your_app_password"
-
 
 3. **Change Email Address:**
    Replace `"your_email@example.com"` with the new Gmail email address you want to use for sending emails.
@@ -198,10 +195,5 @@ By following these steps, you'll successfully deploy your Django backend applica
 
 This README has provided you with a clear understanding of the deployment process and how to interact with the project's APIs. Feel free to access the deployed project through the provided links and explore its functionalities.
 
-
-If you're looking for further assistance, have questions, or want to discuss any aspect of this project, you can reach out me on
-Telegram: [@tajmaxpro](https://t.me/tajmaxpro)
-
-Best regards,
-
-Muhammadjon
+If you're looking for further assistance, have questions, or want to discuss any aspect of this project, you can reach out me on 
+[Telegram](https://t.me/tajmaxpro).
